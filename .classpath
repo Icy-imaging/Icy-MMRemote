@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="plugins/irsath/micromanagerforicy/gui/RemoteSlider.java" kind="src" path="src"/>
+	<classpathentry kind="var" path="ICY_HOME/icy.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Icy-MicroManager"/>
+	<classpathentry kind="var" path="MM_HOME/plugins/Micro-Manager/MMJ_.jar"/>
+	<classpathentry kind="var" path="MM_HOME/plugins/Micro-Manager/MMCoreJ.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
